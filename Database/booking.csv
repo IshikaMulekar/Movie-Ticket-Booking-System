@@ -1,0 +1,1001 @@
+booking_id,user_id,show_id,booking_date,total_tickets,payment_status,booking_status,ticket_price,movie_id,theatre_id,seats_booked,show_time,theatre_name
+BK_1,US_2,SH_6385,"2025-07-26 19:40:18",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_2,US_1,SH_217,"2024-05-31 11:52:49",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_3,US_4,SH_431,"2025-06-05 22:58:22",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_4,US_2,SH_6573,"2024-05-11 3:39:48",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_5,US_1,SH_4680,"2024-09-21 4:57:45",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_6,US_2,SH_500,"2024-03-19 2:24:22",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_7,US_2,SH_8457,"2024-09-30 23:31:54",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_8,US_1,SH_6467,"2024-03-05 10:28:18",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_9,US_4,SH_365,"2025-08-20 12:17:27",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_10,US_1,SH_2314,"2025-12-28 13:57:17",1,Failed,Cancelled,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_11,US_1,SH_3671,"2025-12-28 6:16:26",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_12,US_1,SH_361,"2025-07-23 10:01:53",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_13,US_1,SH_69,"2024-03-22 3:47:29",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_14,US_2,SH_934,"2025-04-29 17:29:36",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_15,US_1,SH_4698,"2024-08-04 4:52:44",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_16,US_4,SH_6881,"2025-01-26 8:35:18",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_17,US_1,SH_5468,"2024-11-28 11:03:51",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_18,US_2,SH_7940,"2024-08-03 14:45:46",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_19,US_1,SH_8416,"2025-02-22 6:28:14",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_20,US_3,SH_4449,"2025-11-10 21:33:50",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_21,US_3,SH_2846,"2025-09-02 14:28:49",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_22,US_4,SH_350,"2024-07-18 6:24:31",3,Pending,Pending,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_23,US_2,SH_3797,"2024-10-15 17:30:58",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_24,US_5,SH_1071,"2024-03-19 0:29:20",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_25,US_2,SH_2988,"2025-11-29 7:02:45",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_26,US_2,SH_6188,"2025-04-23 9:36:57",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_27,US_1,SH_3130,"2025-01-08 22:07:25",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_28,US_4,SH_1611,"2025-10-01 6:54:55",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_29,US_1,SH_3570,"2025-05-04 21:36:35",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_30,US_3,SH_368,"2025-02-23 7:19:42",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_31,US_1,SH_2235,"2024-11-02 23:01:30",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_32,US_1,SH_7841,"2024-01-15 12:53:18",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_33,US_2,SH_2985,"2025-09-19 18:58:11",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_34,US_6,SH_926,"2024-01-13 11:15:49",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_35,US_4,SH_8697,"2024-01-03 19:24:36",1,Failed,Cancelled,500,MV_5,TH_5,1,21:45:00,INOX
+BK_36,US_2,SH_4759,"2024-06-15 16:46:58",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_37,US_1,SH_3851,"2025-05-03 10:43:40",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_38,US_5,SH_4184,"2024-04-09 8:11:06",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_39,US_4,SH_6946,"2024-09-02 1:20:09",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_40,US_3,SH_2008,"2024-03-24 7:56:03",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_41,US_4,SH_3230,"2024-01-27 6:10:10",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_42,US_5,SH_4725,"2024-03-23 10:34:56",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_43,US_3,SH_3486,"2025-07-06 11:31:54",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_44,US_1,SH_7138,"2024-09-17 0:37:29",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_45,US_5,SH_474,"2024-04-19 20:16:45",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_46,US_2,SH_3864,"2024-11-04 3:35:48",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_47,US_1,SH_5178,"2024-09-05 21:37:15",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_48,US_5,SH_7427,"2025-10-10 1:10:12",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_49,US_4,SH_5098,"2025-09-07 17:01:13",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_50,US_1,SH_4176,"2024-08-12 1:19:12",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_51,US_2,SH_2046,"2025-12-08 5:53:05",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_52,US_2,SH_6551,"2024-11-13 11:21:09",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_53,US_6,SH_7023,"2025-11-02 19:36:40",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_54,US_3,SH_2907,"2024-11-02 0:00:46",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_55,US_2,SH_6123,"2024-02-01 5:02:38",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_56,US_5,SH_9298,"2024-04-04 23:07:04",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_57,US_1,SH_8474,"2025-04-07 19:40:11",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_58,US_1,SH_5375,"2025-03-20 20:25:12",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_59,US_3,SH_1623,"2025-10-22 2:54:43",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_60,US_2,SH_7385,"2025-09-21 14:56:13",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_61,US_2,SH_6127,"2025-12-09 2:26:06",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_62,US_1,SH_1854,"2025-10-28 9:36:28",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_63,US_3,SH_147,"2025-03-19 11:26:55",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_64,US_5,SH_7493,"2025-09-06 15:57:49",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_65,US_5,SH_4445,"2025-09-30 12:00:29",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_66,US_1,SH_2843,"2024-04-30 6:21:04",4,Failed,Cancelled,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_67,US_5,SH_1257,"2024-11-09 3:13:56",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_68,US_1,SH_3797,"2024-07-13 5:32:10",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_69,US_4,SH_7808,"2025-12-09 9:27:31",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_70,US_2,SH_8926,"2024-08-10 22:58:18",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_71,US_3,SH_6819,"2025-03-05 18:48:00",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_72,US_4,SH_8444,"2024-02-07 10:35:25",1,Pending,Pending,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_73,US_2,SH_8193,"2025-03-15 21:31:02",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_74,US_4,SH_728,"2024-01-13 3:45:45",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_75,US_3,SH_9582,"2024-03-02 19:42:36",1,Failed,Cancelled,500,MV_5,TH_5,1,21:45:00,INOX
+BK_76,US_4,SH_6299,"2024-07-23 6:41:04",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_77,US_1,SH_4267,"2024-05-05 12:19:32",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_78,US_3,SH_5463,"2024-11-12 11:54:19",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_79,US_2,SH_1482,"2025-11-22 10:49:55",3,Pending,Pending,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_80,US_1,SH_4706,"2025-10-13 22:52:00",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_81,US_2,SH_9533,"2024-08-24 9:28:32",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_82,US_1,SH_4165,"2025-05-02 13:32:56",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_83,US_1,SH_5090,"2025-02-08 4:56:55",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_84,US_1,SH_1078,"2024-04-17 16:37:21",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_85,US_2,SH_6067,"2025-11-18 9:09:56",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_86,US_1,SH_4705,"2025-05-13 4:01:25",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_87,US_1,SH_10000,"2025-02-06 23:34:24",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_88,US_2,SH_3805,"2024-10-02 16:48:09",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_89,US_2,SH_1216,"2025-05-07 12:22:54",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_90,US_3,SH_2696,"2024-09-25 23:17:39",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_91,US_6,SH_7834,"2025-02-27 4:17:02",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_92,US_4,SH_6205,"2024-04-23 13:21:35",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_93,US_3,SH_5139,"2025-08-13 20:48:02",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_94,US_4,SH_6460,"2025-02-24 22:48:29",3,Failed,Cancelled,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_95,US_2,SH_7269,"2025-03-09 12:09:29",4,Pending,Pending,500,MV_5,TH_5,4,21:45:00,INOX
+BK_96,US_1,SH_6049,"2024-12-10 22:28:48",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_97,US_2,SH_1068,"2025-01-17 3:18:34",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_98,US_2,SH_6696,"2025-09-12 6:27:05",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_99,US_1,SH_1673,"2024-03-21 2:16:05",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_100,US_1,SH_3176,"2025-12-20 15:05:03",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_101,US_1,SH_1179,"2024-09-15 21:10:12",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_102,US_2,SH_624,"2025-03-07 0:30:13",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_103,US_3,SH_3878,"2024-11-01 7:14:55",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_104,US_5,SH_7437,"2024-04-10 4:55:15",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_105,US_1,SH_4239,"2025-10-23 0:01:47",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_106,US_2,SH_9411,"2024-01-15 14:01:50",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_107,US_2,SH_9702,"2025-06-17 10:05:09",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_108,US_4,SH_7645,"2024-03-07 13:07:24",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_109,US_2,SH_9924,"2025-04-01 18:28:30",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_110,US_3,SH_7393,"2024-07-26 16:24:21",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_111,US_2,SH_2134,"2025-01-11 5:14:25",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_112,US_3,SH_8348,"2025-05-05 14:38:37",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_113,US_2,SH_6458,"2025-01-29 1:23:02",1,Failed,Cancelled,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_114,US_1,SH_4195,"2024-10-30 2:44:04",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_115,US_4,SH_4394,"2025-11-07 12:30:35",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_116,US_2,SH_9562,"2025-09-20 4:32:07",4,Failed,Cancelled,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_117,US_4,SH_6773,"2025-10-22 14:22:03",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_118,US_1,SH_9856,"2024-10-07 23:22:48",2,Failed,Cancelled,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_119,US_4,SH_4582,"2025-01-16 4:23:51",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_120,US_3,SH_8318,"2025-11-06 7:55:51",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_121,US_2,SH_6828,"2025-04-11 4:15:38",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_122,US_1,SH_7615,"2024-04-23 19:39:42",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_123,US_4,SH_9326,"2024-06-12 2:45:29",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_124,US_2,SH_6174,"2025-07-22 16:51:42",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_125,US_3,SH_205,"2025-11-20 1:03:21",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_126,US_4,SH_7072,"2024-11-07 17:50:00",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_127,US_2,SH_6238,"2024-06-18 19:58:48",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_128,US_3,SH_8445,"2025-10-20 16:53:25",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_129,US_2,SH_1224,"2025-08-21 18:56:37",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_130,US_2,SH_5011,"2024-09-22 5:02:42",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_131,US_5,SH_7290,"2025-10-02 10:49:23",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_132,US_3,SH_4956,"2024-07-07 21:41:40",2,Failed,Cancelled,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_133,US_4,SH_4567,"2025-10-20 2:28:40",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_134,US_3,SH_4627,"2025-03-25 10:17:28",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_135,US_1,SH_5840,"2025-05-04 16:29:09",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_136,US_1,SH_7975,"2025-08-08 5:45:14",2,Pending,Pending,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_137,US_2,SH_7693,"2024-07-14 0:13:33",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_138,US_4,SH_7273,"2024-12-10 21:40:28",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_139,US_2,SH_217,"2025-08-11 23:58:41",4,Pending,Pending,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_140,US_3,SH_9591,"2025-12-18 6:11:53",1,Pending,Pending,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_141,US_3,SH_5641,"2025-01-11 16:21:22",2,Failed,Cancelled,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_142,US_2,SH_299,"2025-07-19 15:18:06",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_143,US_2,SH_1211,"2025-02-13 8:59:38",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_144,US_1,SH_7181,"2025-05-24 14:43:40",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_145,US_2,SH_6034,"2024-09-07 12:00:42",1,Pending,Pending,500,MV_5,TH_5,1,21:45:00,INOX
+BK_146,US_4,SH_6355,"2024-12-09 12:14:22",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_147,US_2,SH_6955,"2025-08-23 23:53:55",4,Failed,Cancelled,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_148,US_3,SH_8323,"2025-03-27 7:54:46",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_149,US_1,SH_2428,"2024-02-09 14:26:08",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_150,US_3,SH_6816,"2025-04-20 4:10:38",1,Pending,Pending,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_151,US_3,SH_5840,"2024-04-20 5:20:19",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_152,US_2,SH_2797,"2024-09-04 21:14:46",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_153,US_3,SH_3200,"2024-10-25 16:43:15",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_154,US_2,SH_9796,"2024-04-12 3:15:16",2,Failed,Cancelled,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_155,US_2,SH_1239,"2024-08-25 21:20:37",3,Failed,Cancelled,500,MV_5,TH_5,3,21:45:00,INOX
+BK_156,US_1,SH_8655,"2025-07-10 23:38:56",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_157,US_1,SH_6336,"2024-04-07 7:00:21",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_158,US_2,SH_2931,"2024-10-24 21:14:10",4,Failed,Cancelled,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_159,US_2,SH_8330,"2025-10-11 14:05:46",2,Pending,Pending,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_160,US_7,SH_1054,"2025-10-25 18:47:03",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_161,US_1,SH_6612,"2025-04-01 15:26:33",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_162,US_1,SH_114,"2024-11-04 6:32:43",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_163,US_1,SH_6801,"2025-02-19 9:02:31",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_164,US_2,SH_8814,"2025-02-25 15:18:20",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_165,US_2,SH_8004,"2024-11-26 20:53:01",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_166,US_2,SH_9754,"2025-10-29 0:12:58",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_167,US_3,SH_8849,"2025-10-10 8:00:35",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_168,US_2,SH_538,"2025-05-08 20:41:44",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_169,US_2,SH_6459,"2024-01-22 0:10:59",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_170,US_3,SH_3209,"2024-09-29 13:48:05",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_171,US_4,SH_7831,"2025-07-11 6:16:23",2,Pending,Pending,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_172,US_1,SH_5832,"2024-11-08 9:43:36",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_173,US_2,SH_26,"2024-07-29 6:45:34",1,Failed,Cancelled,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_174,US_2,SH_412,"2024-08-25 9:27:33",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_175,US_1,SH_6894,"2024-03-08 21:06:54",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_176,US_2,SH_5409,"2025-09-05 2:48:18",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_177,US_4,SH_9855,"2024-05-05 3:12:20",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_178,US_3,SH_7372,"2024-05-08 0:14:58",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_179,US_3,SH_3158,"2024-02-16 0:28:12",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_180,US_4,SH_7420,"2024-05-07 3:09:20",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_181,US_1,SH_6096,"2024-02-06 11:52:43",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_182,US_3,SH_3415,"2024-09-09 17:46:42",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_183,US_4,SH_4231,"2025-01-15 18:51:21",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_184,US_2,SH_7508,"2024-02-16 5:08:49",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_185,US_1,SH_4830,"2025-08-31 17:12:38",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_186,US_1,SH_3863,"2025-05-27 2:12:58",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_187,US_2,SH_3514,"2024-01-15 13:35:01",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_188,US_1,SH_6286,"2024-09-12 17:41:07",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_189,US_2,SH_7834,"2025-05-27 17:16:58",3,Pending,Pending,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_190,US_1,SH_9724,"2025-04-21 1:11:34",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_191,US_3,SH_9649,"2025-10-28 0:18:46",3,Failed,Cancelled,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_192,US_1,SH_3648,"2025-11-06 1:46:42",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_193,US_1,SH_5965,"2024-11-09 9:16:01",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_194,US_4,SH_9903,"2025-08-17 3:03:57",4,Pending,Pending,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_195,US_4,SH_9203,"2025-09-01 20:22:15",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_196,US_4,SH_7750,"2025-03-14 16:18:28",1,Pending,Pending,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_197,US_3,SH_9529,"2024-09-30 17:28:52",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_198,US_2,SH_9920,"2025-03-29 6:40:33",2,Failed,Cancelled,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_199,US_2,SH_805,"2024-09-15 12:32:44",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_200,US_3,SH_8290,"2024-07-26 4:06:03",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_201,US_1,SH_2701,"2025-12-17 19:57:02",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_202,US_1,SH_3243,"2024-10-12 15:24:23",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_203,US_3,SH_341,"2024-01-25 6:59:27",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_204,US_3,SH_5656,"2025-08-14 0:08:16",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_205,US_3,SH_2918,"2024-05-23 4:20:54",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_206,US_3,SH_4455,"2024-05-03 7:17:31",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_207,US_2,SH_1378,"2025-04-08 20:37:15",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_208,US_3,SH_642,"2024-12-31 13:12:52",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_209,US_1,SH_3892,"2025-06-01 13:33:17",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_210,US_2,SH_3356,"2025-09-15 4:31:53",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_211,US_2,SH_80,"2024-01-18 3:53:16",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_212,US_2,SH_952,"2025-09-07 4:41:17",1,Failed,Cancelled,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_213,US_2,SH_2349,"2024-10-02 18:06:07",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_214,US_1,SH_3505,"2024-08-20 0:52:39",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_215,US_4,SH_1633,"2025-05-22 19:10:49",1,Failed,Cancelled,500,MV_5,TH_5,1,21:45:00,INOX
+BK_216,US_1,SH_1571,"2024-10-24 19:33:22",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_217,US_3,SH_7450,"2024-01-02 16:46:15",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_218,US_3,SH_4246,"2025-04-08 14:28:56",4,Failed,Cancelled,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_219,US_4,SH_6478,"2025-09-29 7:17:52",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_220,US_1,SH_6919,"2025-03-29 3:10:18",4,Pending,Pending,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_221,US_6,SH_2284,"2024-10-29 10:19:36",4,Failed,Cancelled,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_222,US_3,SH_6311,"2025-02-01 22:49:04",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_223,US_1,SH_4140,"2025-09-26 10:16:47",2,Pending,Pending,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_224,US_2,SH_8830,"2024-08-31 5:10:49",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_225,US_2,SH_8713,"2024-02-25 12:05:39",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_226,US_2,SH_1641,"2024-07-29 9:27:59",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_227,US_2,SH_4008,"2024-03-17 10:58:52",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_228,US_5,SH_7830,"2025-01-16 1:38:13",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_229,US_1,SH_9545,"2025-02-25 13:37:25",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_230,US_1,SH_988,"2024-02-02 1:15:51",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_231,US_4,SH_9652,"2024-11-06 13:43:17",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_232,US_2,SH_7737,"2025-09-04 14:25:54",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_233,US_2,SH_555,"2024-02-03 5:23:41",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_234,US_3,SH_2527,"2025-06-30 5:58:53",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_235,US_4,SH_5791,"2024-07-30 1:30:43",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_236,US_4,SH_3567,"2024-04-02 18:08:38",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_237,US_1,SH_8670,"2025-06-16 18:25:45",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_238,US_7,SH_2541,"2024-03-08 23:57:33",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_239,US_3,SH_9536,"2025-08-19 18:48:59",1,Pending,Pending,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_240,US_3,SH_9806,"2025-09-25 5:56:10",2,Pending,Pending,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_241,US_2,SH_3405,"2024-09-02 4:15:27",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_242,US_3,SH_6960,"2024-07-24 18:28:21",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_243,US_2,SH_4203,"2024-11-22 0:02:22",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_244,US_4,SH_3330,"2024-07-31 22:24:26",4,Failed,Cancelled,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_245,US_2,SH_7782,"2024-02-03 13:51:20",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_246,US_1,SH_1289,"2024-09-25 11:12:23",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_247,US_1,SH_8679,"2025-02-21 20:33:10",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_248,US_7,SH_7616,"2024-05-01 3:20:03",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_249,US_2,SH_5092,"2024-10-27 19:03:02",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_250,US_4,SH_7920,"2024-11-26 14:50:35",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_251,US_1,SH_9006,"2025-08-26 1:10:52",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_252,US_4,SH_7387,"2024-03-03 22:34:17",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_253,US_1,SH_5128,"2024-01-23 4:08:12",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_254,US_4,SH_2473,"2024-07-08 22:03:02",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_255,US_2,SH_6678,"2025-06-06 9:07:00",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_256,US_2,SH_9468,"2025-08-16 18:42:46",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_257,US_2,SH_258,"2025-09-21 16:24:45",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_258,US_3,SH_5376,"2025-01-13 19:39:32",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_259,US_1,SH_2062,"2025-06-27 3:28:12",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_260,US_3,SH_455,"2025-01-07 23:18:04",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_261,US_3,SH_3544,"2025-01-30 15:31:34",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_262,US_4,SH_4563,"2024-02-13 13:38:47",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_263,US_4,SH_7012,"2025-09-13 18:15:50",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_264,US_3,SH_9169,"2025-07-01 1:12:34",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_265,US_1,SH_1825,"2024-02-18 5:11:37",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_266,US_2,SH_2989,"2024-10-08 18:27:04",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_267,US_1,SH_6522,"2024-08-18 18:22:57",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_268,US_1,SH_6728,"2025-01-26 10:39:36",3,Failed,Cancelled,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_269,US_3,SH_8542,"2025-04-18 3:51:41",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_270,US_2,SH_2054,"2025-01-01 20:18:09",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_271,US_3,SH_5449,"2024-07-16 13:13:05",2,Pending,Pending,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_272,US_4,SH_1681,"2024-12-14 17:26:46",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_273,US_2,SH_3530,"2025-06-23 2:09:28",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_274,US_2,SH_730,"2024-12-15 12:52:57",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_275,US_2,SH_6484,"2024-03-28 14:36:11",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_276,US_1,SH_5314,"2024-11-21 22:25:44",2,Pending,Pending,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_277,US_2,SH_3008,"2025-01-16 9:07:42",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_278,US_3,SH_7568,"2024-06-25 10:35:35",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_279,US_5,SH_8361,"2024-08-28 4:29:27",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_280,US_3,SH_313,"2025-10-08 17:32:42",3,Pending,Pending,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_281,US_3,SH_6707,"2025-10-28 12:31:06",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_282,US_2,SH_1633,"2025-03-03 15:00:47",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_283,US_1,SH_1961,"2025-05-03 18:02:49",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_284,US_1,SH_9360,"2024-12-29 16:32:34",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_285,US_6,SH_7871,"2024-07-31 21:51:46",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_286,US_2,SH_9889,"2024-06-29 12:33:04",3,Failed,Cancelled,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_287,US_4,SH_5676,"2025-11-15 1:13:28",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_288,US_2,SH_2336,"2025-06-03 11:27:35",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_289,US_1,SH_6639,"2025-11-06 4:51:30",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_290,US_2,SH_1412,"2024-07-06 12:12:32",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_291,US_1,SH_2846,"2024-04-25 10:21:17",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_292,US_2,SH_9767,"2024-04-09 18:33:50",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_293,US_1,SH_2826,"2025-04-04 23:11:02",3,Pending,Pending,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_294,US_3,SH_4624,"2025-03-29 18:31:06",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_295,US_3,SH_1497,"2024-02-05 2:57:36",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_296,US_3,SH_6645,"2025-01-07 7:21:44",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_297,US_2,SH_5477,"2025-11-11 22:00:10",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_298,US_5,SH_2832,"2025-07-02 19:48:51",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_299,US_4,SH_5292,"2025-10-05 9:07:16",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_300,US_4,SH_9790,"2025-11-03 0:26:49",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_301,US_4,SH_116,"2025-01-10 16:32:46",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_302,US_1,SH_81,"2025-03-16 9:59:51",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_303,US_2,SH_5661,"2024-08-12 9:00:45",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_304,US_1,SH_5154,"2024-05-05 13:14:12",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_305,US_4,SH_3736,"2025-04-29 14:55:52",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_306,US_3,SH_7056,"2024-02-29 13:42:41",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_307,US_1,SH_1275,"2025-04-01 18:41:36",4,Pending,Pending,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_308,US_2,SH_6056,"2024-12-07 21:01:40",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_309,US_4,SH_3089,"2025-03-09 20:43:48",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_310,US_3,SH_7774,"2025-03-07 14:04:16",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_311,US_3,SH_3281,"2025-07-29 7:49:37",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_312,US_3,SH_3129,"2024-11-08 15:07:13",3,Pending,Pending,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_313,US_2,SH_183,"2024-09-09 8:45:02",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_314,US_4,SH_2709,"2025-11-30 2:42:07",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_315,US_3,SH_3464,"2024-08-08 13:20:16",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_316,US_2,SH_6742,"2025-11-17 6:55:46",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_317,US_1,SH_8780,"2024-08-23 19:03:29",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_318,US_2,SH_1702,"2024-01-05 11:21:30",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_319,US_3,SH_3206,"2024-10-28 6:41:08",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_320,US_6,SH_6839,"2025-06-05 16:25:02",1,Pending,Pending,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_321,US_1,SH_50,"2024-12-30 14:51:48",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_322,US_3,SH_2436,"2025-12-25 21:21:59",2,Failed,Cancelled,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_323,US_2,SH_6902,"2025-04-10 4:20:14",3,Failed,Cancelled,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_324,US_1,SH_5945,"2025-04-19 0:31:12",4,Pending,Pending,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_325,US_4,SH_3776,"2025-05-11 7:32:29",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_326,US_2,SH_1538,"2025-09-28 12:57:51",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_327,US_1,SH_3470,"2024-05-30 17:22:52",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_328,US_3,SH_6332,"2025-11-08 17:07:06",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_329,US_2,SH_8628,"2025-11-15 23:56:06",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_330,US_2,SH_8180,"2024-11-05 7:06:00",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_331,US_5,SH_51,"2024-01-19 7:13:35",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_332,US_3,SH_1899,"2025-12-02 17:09:41",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_333,US_1,SH_5663,"2024-10-28 3:57:41",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_334,US_4,SH_6872,"2025-01-05 5:14:52",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_335,US_1,SH_4812,"2025-07-19 9:30:13",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_336,US_3,SH_3647,"2024-11-30 3:24:20",1,Failed,Cancelled,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_337,US_2,SH_4120,"2025-05-23 17:41:22",3,Failed,Cancelled,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_338,US_1,SH_1322,"2025-09-29 4:18:16",4,Failed,Cancelled,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_339,US_2,SH_3948,"2025-12-12 6:41:22",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_340,US_4,SH_171,"2025-01-04 0:03:55",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_341,US_2,SH_7176,"2025-12-27 3:58:11",4,Failed,Cancelled,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_342,US_4,SH_9236,"2024-08-12 0:34:24",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_343,US_4,SH_6017,"2024-12-04 3:36:31",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_344,US_1,SH_682,"2025-02-18 8:08:54",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_345,US_7,SH_3429,"2025-03-01 11:10:32",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_346,US_3,SH_3678,"2024-03-21 2:11:30",4,Failed,Cancelled,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_347,US_1,SH_6431,"2024-06-25 4:01:06",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_348,US_1,SH_7674,"2024-07-29 7:02:56",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_349,US_6,SH_7145,"2024-03-12 4:17:06",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_350,US_2,SH_6538,"2025-09-24 7:20:13",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_351,US_1,SH_1630,"2025-04-26 4:29:08",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_352,US_2,SH_4690,"2025-05-06 18:15:21",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_353,US_4,SH_2196,"2024-02-20 20:17:26",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_354,US_2,SH_2177,"2025-06-06 1:57:34",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_355,US_2,SH_9031,"2025-07-09 0:33:13",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_356,US_1,SH_1912,"2024-10-31 14:58:30",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_357,US_3,SH_8201,"2025-02-13 1:56:13",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_358,US_2,SH_6137,"2024-03-17 23:09:46",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_359,US_2,SH_5470,"2024-11-03 3:38:35",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_360,US_2,SH_4723,"2025-10-15 19:23:42",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_361,US_2,SH_8685,"2024-11-22 0:04:51",4,Pending,Pending,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_362,US_2,SH_5827,"2025-01-29 20:31:36",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_363,US_2,SH_6362,"2025-11-02 10:14:48",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_364,US_2,SH_6758,"2024-11-22 0:12:39",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_365,US_2,SH_142,"2025-07-05 0:28:56",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_366,US_3,SH_5344,"2024-06-02 4:17:36",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_367,US_3,SH_8367,"2024-07-28 21:32:35",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_368,US_3,SH_3440,"2025-02-13 10:40:30",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_369,US_2,SH_8785,"2024-03-12 9:23:55",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_370,US_3,SH_6370,"2025-12-25 13:17:20",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_371,US_1,SH_9805,"2025-04-08 14:46:34",4,Pending,Pending,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_372,US_3,SH_4288,"2024-02-19 10:41:14",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_373,US_2,SH_1204,"2025-05-25 6:27:13",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_374,US_1,SH_4782,"2024-11-20 16:19:30",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_375,US_1,SH_4864,"2025-01-28 3:33:54",4,Failed,Cancelled,500,MV_5,TH_5,4,21:45:00,INOX
+BK_376,US_3,SH_3459,"2025-07-21 4:13:07",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_377,US_1,SH_6449,"2025-09-18 4:24:31",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_378,US_3,SH_8650,"2024-10-20 9:05:32",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_379,US_4,SH_7607,"2025-10-07 3:25:50",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_380,US_1,SH_2993,"2025-03-04 15:13:45",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_381,US_4,SH_4733,"2025-09-28 11:08:50",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_382,US_1,SH_9987,"2025-03-07 13:23:46",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_383,US_7,SH_8238,"2024-01-17 1:25:07",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_384,US_3,SH_3364,"2024-12-14 20:30:29",4,Pending,Pending,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_385,US_3,SH_1438,"2024-04-21 0:18:54",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_386,US_5,SH_5610,"2025-07-14 2:26:47",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_387,US_1,SH_6370,"2025-06-19 13:44:42",4,Failed,Cancelled,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_388,US_2,SH_5531,"2024-07-08 8:18:51",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_389,US_2,SH_8472,"2025-08-18 15:35:30",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_390,US_1,SH_9743,"2025-01-02 19:12:25",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_391,US_2,SH_8322,"2025-11-14 11:20:36",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_392,US_3,SH_357,"2025-11-24 8:12:26",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_393,US_1,SH_6724,"2025-06-11 9:19:03",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_394,US_4,SH_3395,"2024-10-19 22:51:47",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_395,US_4,SH_5975,"2025-01-26 13:04:33",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_396,US_2,SH_2890,"2025-11-08 8:07:48",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_397,US_2,SH_1071,"2025-06-28 12:08:38",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_398,US_5,SH_7647,"2024-05-17 2:52:12",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_399,US_4,SH_167,"2024-01-13 15:51:29",1,Failed,Cancelled,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_400,US_4,SH_4380,"2024-11-01 22:50:06",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_401,US_3,SH_9531,"2024-07-29 20:00:05",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_402,US_2,SH_3064,"2024-02-25 1:05:52",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_403,US_3,SH_4117,"2025-01-26 5:32:44",3,Pending,Pending,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_404,US_2,SH_9925,"2025-09-08 6:42:05",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_405,US_3,SH_110,"2024-03-06 6:16:39",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_406,US_1,SH_8820,"2024-01-01 19:42:19",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_407,US_1,SH_3155,"2024-09-24 12:08:11",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_408,US_4,SH_5621,"2025-08-02 4:53:07",2,Pending,Pending,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_409,US_2,SH_2092,"2025-04-20 18:27:05",3,Failed,Cancelled,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_410,US_4,SH_8025,"2024-01-16 12:30:33",2,Failed,Cancelled,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_411,US_1,SH_4221,"2025-04-20 18:04:12",2,Pending,Pending,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_412,US_2,SH_7394,"2024-04-10 8:53:43",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_413,US_1,SH_5362,"2025-01-30 4:58:56",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_414,US_1,SH_4677,"2024-05-07 22:17:06",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_415,US_1,SH_4597,"2025-08-24 2:36:22",1,Failed,Cancelled,500,MV_5,TH_5,1,21:45:00,INOX
+BK_416,US_4,SH_8579,"2024-03-18 9:10:50",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_417,US_2,SH_3122,"2024-06-21 7:04:06",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_418,US_1,SH_6469,"2025-10-02 13:09:42",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_419,US_3,SH_1380,"2024-01-11 0:44:41",4,Failed,Cancelled,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_420,US_3,SH_736,"2024-03-28 11:37:25",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_421,US_2,SH_1246,"2025-10-21 3:14:40",2,Pending,Pending,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_422,US_2,SH_4973,"2025-10-02 22:42:31",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_423,US_3,SH_1945,"2024-04-13 19:04:03",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_424,US_3,SH_6434,"2024-06-01 3:53:45",2,Pending,Pending,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_425,US_3,SH_7696,"2025-09-26 20:59:29",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_426,US_1,SH_6054,"2024-06-28 14:58:13",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_427,US_2,SH_9026,"2024-11-16 14:20:37",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_428,US_3,SH_9298,"2024-10-06 22:43:47",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_429,US_3,SH_2301,"2025-09-10 18:40:42",1,Pending,Pending,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_430,US_2,SH_4555,"2025-08-04 21:14:48",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_431,US_3,SH_6431,"2024-06-15 17:15:08",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_432,US_1,SH_2209,"2025-10-01 0:29:22",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_433,US_3,SH_3790,"2024-03-18 7:07:08",4,Failed,Cancelled,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_434,US_2,SH_8197,"2024-06-08 15:45:52",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_435,US_4,SH_6806,"2024-09-16 9:29:59",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_436,US_4,SH_4769,"2024-06-30 8:12:50",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_437,US_1,SH_5417,"2024-11-21 11:45:39",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_438,US_3,SH_3210,"2024-03-16 8:09:10",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_439,US_4,SH_2991,"2024-11-28 23:32:49",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_440,US_3,SH_1022,"2024-07-18 2:37:01",4,Failed,Cancelled,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_441,US_2,SH_4754,"2025-10-17 3:52:16",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_442,US_1,SH_9519,"2024-02-06 7:40:59",1,Pending,Pending,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_443,US_2,SH_6861,"2025-03-17 20:10:31",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_444,US_3,SH_524,"2025-02-24 15:24:28",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_445,US_3,SH_1426,"2024-07-12 3:52:54",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_446,US_6,SH_2803,"2025-04-07 5:11:56",1,Pending,Pending,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_447,US_2,SH_5543,"2024-12-06 16:19:47",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_448,US_2,SH_4999,"2025-01-22 4:50:31",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_449,US_1,SH_6228,"2024-09-19 2:04:30",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_450,US_3,SH_8224,"2024-10-18 14:23:03",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_451,US_5,SH_8795,"2025-09-10 11:50:31",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_452,US_2,SH_9047,"2024-09-26 23:42:45",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_453,US_2,SH_6789,"2025-04-24 4:50:19",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_454,US_2,SH_7709,"2025-01-14 4:32:06",3,Failed,Cancelled,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_455,US_1,SH_8462,"2025-10-21 17:34:05",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_456,US_2,SH_4409,"2025-08-18 0:06:55",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_457,US_4,SH_365,"2024-12-06 0:12:33",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_458,US_4,SH_5248,"2025-09-29 18:54:18",2,Pending,Pending,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_459,US_2,SH_4833,"2025-02-22 15:25:18",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_460,US_4,SH_117,"2025-10-30 2:50:06",4,Failed,Cancelled,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_461,US_4,SH_9593,"2025-08-01 12:17:26",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_462,US_4,SH_7521,"2024-05-14 2:31:20",3,Failed,Cancelled,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_463,US_5,SH_1501,"2025-08-19 13:18:44",3,Failed,Cancelled,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_464,US_2,SH_2835,"2025-05-25 2:00:35",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_465,US_3,SH_3593,"2024-12-11 10:31:46",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_466,US_3,SH_1176,"2025-07-19 0:12:58",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_467,US_3,SH_1409,"2025-05-04 8:53:33",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_468,US_2,SH_5561,"2025-03-10 5:44:02",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_469,US_4,SH_4920,"2025-05-23 4:53:39",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_470,US_6,SH_1472,"2024-03-22 8:54:59",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_471,US_1,SH_3085,"2024-07-10 14:38:12",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_472,US_1,SH_9194,"2025-02-11 0:28:31",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_473,US_2,SH_1697,"2024-07-10 0:35:50",4,Pending,Pending,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_474,US_4,SH_5061,"2025-03-21 8:25:25",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_475,US_3,SH_115,"2024-09-18 22:00:36",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_476,US_1,SH_3521,"2025-05-30 2:52:35",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_477,US_1,SH_276,"2025-01-23 20:42:47",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_478,US_4,SH_2678,"2024-10-15 9:42:56",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_479,US_3,SH_2668,"2024-08-09 8:40:26",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_480,US_2,SH_2682,"2025-08-26 18:41:56",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_481,US_5,SH_8279,"2025-04-25 10:05:20",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_482,US_2,SH_9250,"2025-12-08 20:09:55",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_483,US_2,SH_9184,"2024-11-04 12:54:09",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_484,US_2,SH_8051,"2025-08-02 20:04:56",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_485,US_3,SH_4188,"2025-04-12 18:34:03",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_486,US_7,SH_139,"2024-02-17 19:13:37",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_487,US_1,SH_9223,"2024-06-03 2:33:34",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_488,US_1,SH_11,"2024-05-08 12:31:52",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_489,US_3,SH_3766,"2025-11-10 16:40:42",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_490,US_4,SH_5712,"2024-12-31 20:40:44",4,Failed,Cancelled,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_491,US_2,SH_1418,"2024-05-29 8:55:52",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_492,US_1,SH_278,"2025-08-19 5:59:56",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_493,US_1,SH_8874,"2024-08-24 15:29:39",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_494,US_3,SH_3659,"2024-04-19 4:03:31",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_495,US_1,SH_7587,"2024-04-15 17:15:28",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_496,US_2,SH_4069,"2025-03-05 12:02:45",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_497,US_4,SH_9501,"2024-12-02 13:16:34",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_498,US_2,SH_8730,"2025-07-01 4:55:34",3,Pending,Pending,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_499,US_2,SH_9743,"2024-02-13 7:05:21",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_500,US_2,SH_851,"2025-06-23 10:31:18",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_501,US_2,SH_4007,"2025-09-18 10:32:42",2,Failed,Cancelled,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_502,US_3,SH_3045,"2024-02-02 7:17:20",1,Failed,Cancelled,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_503,US_6,SH_6469,"2025-01-14 6:56:38",2,Failed,Cancelled,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_504,US_3,SH_8186,"2024-04-06 15:25:24",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_505,US_2,SH_4192,"2024-03-23 22:16:34",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_506,US_1,SH_4044,"2024-12-17 13:03:23",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_507,US_1,SH_6571,"2024-08-28 13:30:32",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_508,US_3,SH_1781,"2025-11-27 13:36:35",4,Pending,Pending,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_509,US_3,SH_5521,"2025-01-11 19:40:20",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_510,US_4,SH_2353,"2024-09-03 11:23:46",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_511,US_3,SH_9388,"2025-11-28 4:43:41",1,Pending,Pending,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_512,US_1,SH_3743,"2024-10-10 11:00:22",2,Failed,Cancelled,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_513,US_1,SH_1669,"2024-09-05 21:47:58",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_514,US_1,SH_4054,"2024-07-19 14:48:25",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_515,US_3,SH_6599,"2025-09-08 4:19:17",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_516,US_2,SH_9116,"2024-10-20 1:59:40",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_517,US_6,SH_5026,"2025-12-21 3:23:14",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_518,US_2,SH_5262,"2025-08-25 17:21:45",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_519,US_2,SH_2321,"2025-06-14 6:32:05",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_520,US_3,SH_8989,"2025-06-12 4:28:14",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_521,US_2,SH_5555,"2025-05-29 17:13:02",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_522,US_3,SH_7757,"2025-05-07 8:38:27",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_523,US_4,SH_7115,"2025-10-14 0:05:42",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_524,US_2,SH_4136,"2024-10-28 16:10:05",1,Failed,Cancelled,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_525,US_1,SH_6055,"2024-01-06 14:29:58",1,Failed,Cancelled,500,MV_5,TH_5,1,21:45:00,INOX
+BK_526,US_2,SH_6820,"2024-09-25 20:54:23",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_527,US_2,SH_4103,"2025-08-13 21:19:05",1,Failed,Cancelled,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_528,US_3,SH_9897,"2025-12-08 19:22:11",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_529,US_1,SH_587,"2024-09-19 20:58:22",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_530,US_2,SH_2012,"2024-09-07 23:11:18",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_531,US_5,SH_1334,"2024-08-26 6:46:18",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_532,US_2,SH_8001,"2025-08-03 13:42:32",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_533,US_2,SH_5391,"2024-04-02 4:51:25",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_534,US_1,SH_1406,"2025-07-12 13:12:30",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_535,US_3,SH_1490,"2025-08-04 17:42:08",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_536,US_2,SH_6466,"2024-09-06 13:28:31",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_537,US_2,SH_2204,"2024-04-11 7:45:26",3,Pending,Pending,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_538,US_3,SH_1593,"2024-04-11 7:51:13",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_539,US_2,SH_6129,"2024-07-30 22:09:36",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_540,US_1,SH_3417,"2024-03-08 8:37:06",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_541,US_3,SH_8977,"2025-10-23 6:12:41",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_542,US_2,SH_9889,"2024-12-10 9:05:03",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_543,US_1,SH_2417,"2025-09-28 17:01:40",4,Failed,Cancelled,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_544,US_4,SH_2208,"2024-03-18 9:15:04",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_545,US_1,SH_500,"2024-10-28 10:56:12",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_546,US_5,SH_2116,"2025-02-28 16:38:41",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_547,US_2,SH_9793,"2024-01-18 20:27:26",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_548,US_3,SH_3527,"2025-08-01 12:29:46",1,Failed,Cancelled,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_549,US_3,SH_7387,"2024-06-03 5:44:28",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_550,US_4,SH_6531,"2025-01-25 9:47:00",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_551,US_2,SH_9430,"2025-06-25 12:44:41",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_552,US_1,SH_853,"2024-12-20 20:04:45",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_553,US_3,SH_4498,"2025-11-13 5:04:13",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_554,US_3,SH_9169,"2025-11-09 21:35:10",3,Pending,Pending,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_555,US_5,SH_9062,"2025-06-22 0:28:24",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_556,US_2,SH_3330,"2024-02-15 15:18:56",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_557,US_3,SH_6237,"2025-01-20 3:54:31",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_558,US_4,SH_114,"2025-06-21 2:01:41",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_559,US_4,SH_4057,"2025-01-15 13:26:50",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_560,US_2,SH_69,"2024-07-01 4:53:13",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_561,US_3,SH_601,"2025-11-13 19:15:26",3,Pending,Pending,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_562,US_1,SH_3441,"2025-03-20 23:03:33",4,Failed,Cancelled,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_563,US_2,SH_5419,"2024-09-04 10:51:26",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_564,US_5,SH_5133,"2024-07-11 18:11:50",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_565,US_2,SH_8878,"2024-01-14 10:50:24",3,Failed,Cancelled,500,MV_5,TH_5,3,21:45:00,INOX
+BK_566,US_2,SH_8733,"2024-06-10 7:20:21",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_567,US_2,SH_3493,"2025-05-01 23:23:08",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_568,US_3,SH_8276,"2024-10-27 2:52:21",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_569,US_1,SH_7725,"2025-06-22 9:57:19",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_570,US_2,SH_3804,"2025-08-15 10:23:05",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_571,US_1,SH_7849,"2025-02-14 15:38:57",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_572,US_2,SH_738,"2024-05-15 10:42:07",1,Failed,Cancelled,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_573,US_1,SH_4746,"2024-04-07 17:51:09",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_574,US_3,SH_4544,"2024-06-28 16:04:55",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_575,US_1,SH_5695,"2024-01-05 17:47:52",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_576,US_1,SH_8305,"2024-03-26 1:06:29",3,Pending,Pending,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_577,US_3,SH_9662,"2025-12-13 15:40:28",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_578,US_3,SH_6463,"2024-04-21 20:11:38",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_579,US_1,SH_5132,"2025-01-18 0:41:00",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_580,US_2,SH_7032,"2024-10-30 15:25:50",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_581,US_3,SH_903,"2024-03-06 14:22:18",4,Pending,Pending,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_582,US_3,SH_9691,"2024-07-23 15:52:46",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_583,US_1,SH_1999,"2024-08-18 13:32:23",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_584,US_1,SH_8698,"2025-06-26 17:59:37",2,Failed,Cancelled,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_585,US_4,SH_2945,"2024-01-07 21:40:08",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_586,US_6,SH_1697,"2025-03-27 3:42:38",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_587,US_3,SH_8507,"2024-05-12 14:52:01",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_588,US_4,SH_6245,"2024-08-27 5:00:25",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_589,US_1,SH_7659,"2024-11-29 2:43:34",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_590,US_1,SH_8290,"2024-02-09 12:49:45",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_591,US_3,SH_6989,"2024-12-06 19:35:21",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_592,US_2,SH_9228,"2024-09-15 5:06:29",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_593,US_4,SH_8156,"2025-07-08 16:08:54",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_594,US_2,SH_1673,"2024-11-14 8:12:39",4,Failed,Cancelled,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_595,US_3,SH_4903,"2024-09-13 5:46:08",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_596,US_3,SH_1209,"2025-11-24 8:06:55",3,Pending,Pending,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_597,US_1,SH_3756,"2025-01-23 11:18:34",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_598,US_1,SH_8231,"2025-08-15 4:22:25",3,Failed,Cancelled,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_599,US_2,SH_4802,"2025-07-09 14:45:15",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_600,US_1,SH_4037,"2024-03-04 6:02:54",3,Pending,Pending,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_601,US_2,SH_1882,"2025-12-19 7:22:46",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_602,US_1,SH_1109,"2024-04-02 15:48:39",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_603,US_2,SH_3098,"2025-07-23 15:49:00",3,Pending,Pending,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_604,US_4,SH_8219,"2024-04-30 7:46:51",1,Failed,Cancelled,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_605,US_6,SH_3273,"2024-03-09 19:52:50",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_606,US_2,SH_7710,"2024-09-05 1:02:47",3,Failed,Cancelled,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_607,US_5,SH_7088,"2025-07-03 21:00:28",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_608,US_1,SH_5563,"2025-11-20 21:03:12",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_609,US_2,SH_9463,"2024-08-13 10:23:05",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_610,US_2,SH_6129,"2024-06-10 17:01:29",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_611,US_2,SH_7366,"2025-04-22 12:49:23",4,Pending,Pending,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_612,US_1,SH_3484,"2024-07-09 14:04:37",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_613,US_2,SH_344,"2024-01-21 8:18:43",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_614,US_7,SH_3218,"2025-01-08 12:50:20",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_615,US_2,SH_2377,"2024-02-03 3:46:47",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_616,US_2,SH_3438,"2024-05-22 18:27:26",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_617,US_4,SH_9314,"2024-01-02 22:04:55",1,Failed,Cancelled,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_618,US_2,SH_6312,"2025-04-13 16:46:54",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_619,US_2,SH_9491,"2025-02-21 2:19:33",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_620,US_2,SH_303,"2024-12-16 14:43:08",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_621,US_1,SH_7523,"2025-02-04 9:50:57",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_622,US_3,SH_8965,"2025-08-28 7:57:34",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_623,US_2,SH_6179,"2024-12-14 23:49:34",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_624,US_4,SH_2664,"2025-08-23 16:16:35",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_625,US_3,SH_5046,"2024-06-09 8:08:54",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_626,US_3,SH_3808,"2025-03-30 1:45:28",2,Pending,Pending,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_627,US_1,SH_4553,"2024-07-26 1:16:52",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_628,US_5,SH_4453,"2025-01-09 21:25:50",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_629,US_3,SH_60,"2025-07-20 1:17:13",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_630,US_3,SH_5127,"2024-12-21 9:38:23",3,Failed,Cancelled,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_631,US_4,SH_8885,"2025-12-25 18:50:47",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_632,US_1,SH_2887,"2025-09-25 21:47:24",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_633,US_1,SH_5193,"2024-09-29 8:39:33",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_634,US_5,SH_8289,"2024-04-22 10:56:49",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_635,US_2,SH_3904,"2024-10-21 6:28:03",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_636,US_4,SH_9361,"2025-10-21 2:07:36",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_637,US_4,SH_7413,"2025-01-16 3:56:51",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_638,US_2,SH_9028,"2024-11-19 4:07:39",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_639,US_3,SH_8270,"2025-10-24 19:11:22",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_640,US_5,SH_1285,"2024-08-08 17:33:08",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_641,US_2,SH_6188,"2024-05-03 14:54:47",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_642,US_1,SH_941,"2025-04-09 14:27:25",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_643,US_2,SH_1800,"2025-12-13 9:54:27",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_644,US_1,SH_3196,"2025-06-25 15:17:04",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_645,US_2,SH_9240,"2025-10-02 6:22:31",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_646,US_1,SH_3334,"2024-06-29 23:33:31",2,Failed,Cancelled,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_647,US_6,SH_6673,"2025-01-03 0:28:39",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_648,US_3,SH_8297,"2024-02-19 17:33:13",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_649,US_3,SH_894,"2024-01-13 21:20:21",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_650,US_4,SH_1395,"2024-07-02 11:31:24",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_651,US_1,SH_7342,"2025-03-01 16:32:37",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_652,US_5,SH_7091,"2025-06-30 20:50:18",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_653,US_6,SH_3615,"2025-02-20 13:09:25",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_654,US_4,SH_2117,"2024-05-16 14:39:16",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_655,US_3,SH_7186,"2025-05-31 22:56:04",3,Failed,Cancelled,500,MV_5,TH_5,3,21:45:00,INOX
+BK_656,US_5,SH_1226,"2024-10-02 20:49:15",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_657,US_1,SH_1408,"2024-11-17 6:51:42",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_658,US_3,SH_8477,"2024-09-11 14:42:23",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_659,US_1,SH_6010,"2025-01-01 15:41:12",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_660,US_1,SH_1373,"2024-02-29 0:30:13",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_661,US_2,SH_2411,"2025-09-17 17:31:32",2,Pending,Pending,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_662,US_4,SH_5446,"2024-01-02 16:57:30",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_663,US_4,SH_7999,"2024-02-23 10:48:41",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_664,US_6,SH_3044,"2024-07-20 6:23:09",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_665,US_3,SH_8186,"2024-09-23 0:27:12",1,Pending,Pending,500,MV_5,TH_5,1,21:45:00,INOX
+BK_666,US_1,SH_384,"2024-08-11 18:30:31",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_667,US_4,SH_3418,"2024-06-06 7:30:52",2,Failed,Cancelled,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_668,US_2,SH_2420,"2025-01-19 15:52:16",4,Failed,Cancelled,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_669,US_3,SH_6720,"2025-07-24 4:52:36",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_670,US_2,SH_6666,"2025-01-22 5:24:13",3,Pending,Pending,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_671,US_3,SH_9642,"2024-02-09 18:27:08",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_672,US_2,SH_5425,"2025-11-05 18:43:09",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_673,US_2,SH_2890,"2025-10-15 23:14:48",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_674,US_3,SH_5787,"2024-07-29 19:28:06",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_675,US_4,SH_3512,"2024-11-11 11:32:54",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_676,US_2,SH_9415,"2025-01-10 3:48:44",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_677,US_3,SH_8827,"2025-07-24 6:37:05",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_678,US_3,SH_3049,"2024-11-18 10:40:00",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_679,US_2,SH_9426,"2025-02-25 7:37:16",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_680,US_4,SH_6734,"2025-03-16 18:36:13",4,Pending,Pending,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_681,US_2,SH_8258,"2024-01-10 22:14:10",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_682,US_3,SH_7533,"2025-06-28 11:53:52",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_683,US_1,SH_8803,"2024-01-26 4:14:55",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_684,US_1,SH_9208,"2025-10-28 0:32:31",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_685,US_3,SH_3794,"2024-05-16 4:15:45",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_686,US_4,SH_2495,"2024-08-11 8:18:40",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_687,US_1,SH_1801,"2025-04-28 8:37:00",2,Failed,Cancelled,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_688,US_2,SH_228,"2024-01-09 11:23:03",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_689,US_2,SH_6063,"2024-02-26 18:04:05",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_690,US_4,SH_4302,"2025-03-09 11:57:14",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_691,US_1,SH_8521,"2024-09-01 15:23:40",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_692,US_2,SH_352,"2025-05-19 20:21:38",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_693,US_5,SH_2505,"2024-02-19 22:33:01",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_694,US_3,SH_6885,"2024-11-19 12:19:00",4,Failed,Cancelled,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_695,US_2,SH_7121,"2025-07-06 7:23:10",2,Pending,Pending,500,MV_5,TH_5,2,21:45:00,INOX
+BK_696,US_3,SH_8190,"2024-01-24 0:18:00",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_697,US_2,SH_1671,"2024-03-31 16:42:03",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_698,US_3,SH_2466,"2024-11-15 15:58:10",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_699,US_3,SH_6386,"2024-08-23 6:30:50",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_700,US_1,SH_4823,"2024-11-16 2:53:18",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_701,US_5,SH_1853,"2025-01-28 14:29:27",3,Pending,Pending,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_702,US_3,SH_3745,"2024-11-17 2:01:06",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_703,US_4,SH_2045,"2024-02-18 2:38:36",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_704,US_1,SH_194,"2025-02-19 23:57:09",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_705,US_4,SH_7576,"2024-11-10 0:19:43",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_706,US_5,SH_3890,"2024-10-30 19:08:23",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_707,US_2,SH_4436,"2024-04-26 19:39:32",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_708,US_3,SH_432,"2024-07-24 5:20:50",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_709,US_6,SH_3253,"2025-11-01 5:06:56",4,Pending,Pending,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_710,US_4,SH_4422,"2024-01-27 21:21:47",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_711,US_3,SH_2979,"2024-02-13 0:20:25",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_712,US_5,SH_6670,"2024-03-25 7:34:58",4,Pending,Pending,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_713,US_1,SH_4343,"2025-11-12 11:27:23",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_714,US_2,SH_2783,"2025-06-28 5:58:23",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_715,US_3,SH_3152,"2024-02-27 4:00:07",1,Pending,Pending,500,MV_5,TH_5,1,21:45:00,INOX
+BK_716,US_5,SH_7186,"2024-08-08 3:08:07",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_717,US_2,SH_4073,"2025-04-30 4:28:21",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_718,US_2,SH_9579,"2024-09-22 18:00:35",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_719,US_3,SH_4525,"2025-12-29 14:26:16",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_720,US_3,SH_4103,"2024-02-16 18:48:56",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_721,US_5,SH_6493,"2024-11-05 0:51:20",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_722,US_3,SH_6472,"2024-03-08 0:37:15",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_723,US_2,SH_9738,"2024-05-06 3:40:39",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_724,US_2,SH_1137,"2024-10-26 2:22:50",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_725,US_2,SH_1883,"2024-07-02 5:27:58",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_726,US_3,SH_5539,"2024-06-16 2:39:46",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_727,US_3,SH_3497,"2025-07-04 3:12:04",3,Pending,Pending,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_728,US_3,SH_8203,"2024-08-27 21:24:26",1,Failed,Cancelled,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_729,US_2,SH_567,"2025-11-11 14:03:19",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_730,US_3,SH_3352,"2024-10-07 7:47:04",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_731,US_6,SH_869,"2024-09-25 18:52:15",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_732,US_1,SH_3694,"2024-09-07 0:43:05",3,Pending,Pending,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_733,US_2,SH_6791,"2024-07-21 21:48:40",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_734,US_1,SH_9288,"2024-05-23 22:04:56",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_735,US_3,SH_1382,"2025-02-11 15:06:27",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_736,US_5,SH_3229,"2025-07-14 18:57:25",3,Pending,Pending,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_737,US_4,SH_4499,"2025-02-24 2:15:46",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_738,US_2,SH_4990,"2024-01-25 1:08:00",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_739,US_1,SH_9699,"2025-05-29 8:56:17",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_740,US_5,SH_5077,"2025-04-14 22:39:45",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_741,US_1,SH_9760,"2024-09-28 15:43:49",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_742,US_1,SH_5014,"2024-06-06 11:57:40",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_743,US_3,SH_9842,"2024-08-21 19:48:26",2,Failed,Cancelled,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_744,US_3,SH_674,"2025-03-12 4:19:52",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_745,US_3,SH_190,"2024-07-13 6:45:38",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_746,US_2,SH_2261,"2025-12-10 13:00:53",2,Pending,Pending,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_747,US_5,SH_5740,"2025-06-06 1:14:54",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_748,US_2,SH_1258,"2024-09-09 3:26:21",1,Failed,Cancelled,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_749,US_4,SH_7970,"2025-10-19 6:24:09",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_750,US_2,SH_2041,"2025-07-16 10:04:33",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_751,US_2,SH_6075,"2025-08-07 7:11:31",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_752,US_2,SH_8307,"2025-09-10 21:23:50",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_753,US_1,SH_3964,"2024-05-11 18:32:27",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_754,US_5,SH_335,"2025-06-18 6:21:04",3,Failed,Cancelled,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_755,US_3,SH_8142,"2024-02-14 2:55:21",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_756,US_2,SH_7300,"2024-08-11 22:06:17",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_757,US_6,SH_6320,"2025-10-01 5:00:37",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_758,US_1,SH_265,"2024-06-24 7:06:26",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_759,US_7,SH_2268,"2024-11-10 4:51:06",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_760,US_3,SH_9516,"2025-03-09 10:18:29",3,Pending,Pending,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_761,US_2,SH_4176,"2025-02-06 4:48:09",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_762,US_2,SH_7602,"2025-01-29 5:21:07",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_763,US_3,SH_8119,"2024-10-22 7:03:54",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_764,US_2,SH_243,"2024-01-22 22:45:25",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_765,US_6,SH_1884,"2025-11-04 21:14:21",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_766,US_3,SH_2157,"2025-10-28 21:12:25",2,Failed,Cancelled,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_767,US_2,SH_2062,"2024-10-11 2:53:08",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_768,US_5,SH_1314,"2025-01-02 1:50:20",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_769,US_5,SH_6534,"2025-01-31 7:42:20",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_770,US_2,SH_1247,"2024-10-16 18:37:39",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_771,US_1,SH_4801,"2025-05-31 2:00:42",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_772,US_1,SH_6756,"2025-06-22 16:02:47",4,Pending,Pending,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_773,US_2,SH_3631,"2025-05-01 19:32:48",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_774,US_2,SH_3680,"2024-08-08 13:31:45",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_775,US_4,SH_3472,"2024-06-19 10:15:55",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_776,US_3,SH_6318,"2024-03-20 15:59:16",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_777,US_2,SH_6792,"2024-06-10 23:15:45",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_778,US_3,SH_4075,"2024-05-26 18:11:58",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_779,US_5,SH_5448,"2025-08-02 1:52:21",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_780,US_2,SH_2687,"2024-07-15 3:33:24",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_781,US_1,SH_5510,"2024-01-23 20:25:38",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_782,US_6,SH_6994,"2024-01-05 8:54:21",1,Pending,Pending,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_783,US_2,SH_5912,"2024-03-24 1:35:39",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_784,US_2,SH_279,"2025-07-05 5:23:20",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_785,US_4,SH_363,"2025-04-27 20:45:02",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_786,US_1,SH_3692,"2024-09-07 13:34:35",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_787,US_1,SH_9602,"2025-04-06 19:43:25",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_788,US_1,SH_1386,"2025-08-21 16:47:04",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_789,US_5,SH_2635,"2024-03-01 9:39:02",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_790,US_2,SH_125,"2025-02-08 18:22:37",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_791,US_4,SH_6028,"2025-04-20 12:31:16",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_792,US_3,SH_8223,"2025-11-30 19:17:43",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_793,US_3,SH_8175,"2024-11-25 6:23:12",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_794,US_1,SH_4092,"2024-12-29 22:24:40",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_795,US_1,SH_1537,"2025-04-24 3:17:49",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_796,US_1,SH_8288,"2024-11-16 15:33:45",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_797,US_2,SH_4418,"2024-09-07 6:34:22",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_798,US_1,SH_354,"2024-09-20 17:13:55",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_799,US_2,SH_4457,"2024-10-11 18:54:31",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_800,US_1,SH_2512,"2025-10-15 0:17:57",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_801,US_3,SH_3926,"2024-02-05 16:19:04",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_802,US_1,SH_2296,"2024-11-29 12:14:31",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_803,US_1,SH_846,"2025-04-17 2:46:34",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_804,US_1,SH_662,"2025-04-14 16:15:01",2,Failed,Cancelled,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_805,US_4,SH_4811,"2024-04-01 20:14:53",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_806,US_2,SH_1155,"2025-08-19 1:15:29",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_807,US_1,SH_7499,"2025-02-15 8:10:08",3,Completed,Successful,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_808,US_3,SH_2298,"2024-03-13 8:49:36",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_809,US_2,SH_8415,"2025-09-04 7:16:53",1,Failed,Cancelled,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_810,US_3,SH_8183,"2025-04-30 17:08:35",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_811,US_1,SH_6290,"2025-10-15 22:09:38",4,Pending,Pending,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_812,US_2,SH_2142,"2024-08-07 13:36:57",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_813,US_3,SH_4534,"2025-10-20 9:32:24",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_814,US_2,SH_3161,"2025-06-11 19:56:47",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_815,US_5,SH_2869,"2025-01-23 14:17:26",3,Failed,Cancelled,500,MV_5,TH_5,3,21:45:00,INOX
+BK_816,US_2,SH_2632,"2025-06-13 6:58:44",1,Pending,Pending,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_817,US_2,SH_7244,"2025-09-06 3:31:13",1,Pending,Pending,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_818,US_4,SH_8012,"2024-01-02 20:45:18",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_819,US_1,SH_8129,"2025-03-09 13:56:24",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_820,US_3,SH_4221,"2025-04-01 15:08:50",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_821,US_3,SH_8220,"2024-12-17 21:10:14",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_822,US_4,SH_8327,"2024-05-02 4:04:00",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_823,US_5,SH_7276,"2024-12-18 15:50:06",4,Completed,Successful,600,MV_3,TH_3,4,15:00:00,Cinepolis
+BK_824,US_2,SH_9876,"2025-09-17 11:05:34",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_825,US_1,SH_8173,"2024-03-26 19:20:15",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_826,US_5,SH_5474,"2024-01-15 18:31:44",3,Pending,Pending,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_827,US_1,SH_1328,"2025-09-30 14:04:50",1,Pending,Pending,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_828,US_1,SH_6159,"2025-11-28 2:59:37",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_829,US_4,SH_2605,"2024-05-06 22:23:37",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_830,US_4,SH_7493,"2025-01-06 18:32:49",3,Pending,Pending,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_831,US_4,SH_7426,"2025-12-03 9:41:32",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_832,US_2,SH_9701,"2025-07-13 1:49:19",2,Pending,Pending,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_833,US_5,SH_1512,"2025-09-23 12:23:42",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_834,US_2,SH_3959,"2024-10-20 13:27:11",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_835,US_3,SH_4799,"2024-07-08 23:11:14",3,Pending,Pending,500,MV_5,TH_5,3,21:45:00,INOX
+BK_836,US_2,SH_8146,"2025-02-02 19:20:33",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_837,US_3,SH_2358,"2025-09-04 8:20:43",4,Pending,Pending,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_838,US_1,SH_7640,"2024-09-17 17:37:43",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_839,US_6,SH_8100,"2024-09-29 10:21:19",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_840,US_4,SH_8190,"2025-07-04 22:50:42",3,Failed,Cancelled,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_841,US_1,SH_9753,"2025-04-25 6:08:45",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_842,US_6,SH_7906,"2024-06-11 4:49:38",1,Failed,Cancelled,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_843,US_2,SH_8436,"2025-02-10 17:58:41",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_844,US_1,SH_7487,"2024-12-29 14:42:09",4,Pending,Pending,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_845,US_4,SH_3177,"2025-02-10 0:34:39",1,Completed,Successful,500,MV_5,TH_5,1,21:45:00,INOX
+BK_846,US_3,SH_2020,"2024-06-02 2:22:59",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_847,US_5,SH_9389,"2025-11-16 11:26:15",3,Pending,Pending,450,MV_7,TH_2,3,12:30:00,"PVR Cinemas"
+BK_848,US_2,SH_1338,"2024-06-10 14:26:37",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_849,US_1,SH_3077,"2024-08-18 14:29:45",3,Failed,Cancelled,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_850,US_4,SH_4959,"2025-02-19 19:38:47",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_851,US_3,SH_391,"2025-05-27 11:30:50",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_852,US_2,SH_6625,"2025-09-12 19:59:37",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_853,US_4,SH_6633,"2025-03-18 10:04:11",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_854,US_1,SH_1034,"2025-06-09 21:00:47",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_855,US_2,SH_8853,"2024-03-24 14:02:08",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_856,US_1,SH_2744,"2025-11-21 11:15:31",4,Failed,Cancelled,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_857,US_2,SH_1775,"2024-04-12 8:36:15",2,Failed,Cancelled,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_858,US_1,SH_1776,"2025-08-17 8:42:45",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_859,US_6,SH_5958,"2024-07-08 6:02:28",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_860,US_2,SH_1973,"2025-09-30 15:44:30",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_861,US_4,SH_779,"2024-09-09 8:10:14",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_862,US_4,SH_2280,"2024-08-10 6:14:22",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_863,US_4,SH_5413,"2024-06-29 20:20:48",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_864,US_2,SH_350,"2024-11-29 15:37:06",2,Failed,Cancelled,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_865,US_2,SH_8008,"2024-06-03 0:43:12",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_866,US_3,SH_4695,"2025-02-13 8:15:29",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_867,US_2,SH_9292,"2024-02-07 16:44:43",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_868,US_3,SH_7276,"2025-12-05 20:16:59",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_869,US_4,SH_3412,"2024-12-14 6:32:43",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_870,US_2,SH_3076,"2024-01-12 1:43:03",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_871,US_1,SH_9629,"2024-07-27 10:08:39",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_872,US_2,SH_2347,"2024-03-23 14:54:15",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_873,US_3,SH_6534,"2024-05-24 12:52:48",2,Pending,Pending,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_874,US_4,SH_9671,"2024-04-12 3:09:31",2,Pending,Pending,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_875,US_3,SH_121,"2025-11-16 8:05:04",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_876,US_3,SH_2235,"2024-12-31 21:31:31",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_877,US_1,SH_1700,"2024-01-10 17:04:23",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_878,US_4,SH_9747,"2025-03-11 17:05:19",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_879,US_4,SH_1067,"2024-10-22 20:34:14",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_880,US_3,SH_3547,"2024-06-15 23:30:48",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_881,US_2,SH_6730,"2024-02-03 4:20:46",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_882,US_1,SH_5137,"2024-10-01 19:22:35",4,Completed,Successful,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_883,US_3,SH_252,"2025-03-21 9:20:23",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_884,US_2,SH_4069,"2024-09-09 8:44:39",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_885,US_2,SH_5914,"2025-08-22 19:07:13",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_886,US_2,SH_699,"2024-01-26 12:38:01",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_887,US_1,SH_3651,"2025-07-29 16:01:24",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_888,US_3,SH_2511,"2024-04-11 12:56:47",4,Pending,Pending,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_889,US_1,SH_9639,"2025-05-12 7:44:33",1,Completed,Successful,800,MV_9,TH_4,1,18:30:00,Cinepolis
+BK_890,US_1,SH_1570,"2025-09-25 7:53:52",2,Pending,Pending,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_891,US_1,SH_4704,"2025-07-25 17:33:19",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_892,US_3,SH_8668,"2024-10-11 3:17:25",1,Pending,Pending,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_893,US_1,SH_5115,"2024-05-12 20:18:22",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_894,US_2,SH_5313,"2025-03-23 7:19:52",4,Completed,Successful,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_895,US_4,SH_5748,"2024-07-21 2:12:48",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_896,US_2,SH_8708,"2024-09-29 9:17:36",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_897,US_4,SH_7556,"2024-01-24 15:53:48",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_898,US_1,SH_3416,"2024-12-03 8:02:50",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_899,US_4,SH_6844,"2024-08-19 0:05:49",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_900,US_3,SH_9906,"2025-12-28 15:33:32",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_901,US_3,SH_3417,"2025-09-23 2:33:15",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_902,US_2,SH_7112,"2024-05-16 7:59:11",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_903,US_4,SH_5394,"2024-05-11 13:12:03",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_904,US_1,SH_1100,"2025-01-11 17:48:25",2,Pending,Pending,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_905,US_3,SH_2537,"2025-05-28 0:21:08",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_906,US_3,SH_5651,"2025-06-23 3:04:17",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_907,US_2,SH_8227,"2025-07-13 19:12:16",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_908,US_1,SH_8946,"2025-12-24 12:20:22",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_909,US_2,SH_838,"2024-05-02 4:13:24",2,Pending,Pending,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_910,US_1,SH_6105,"2025-04-15 21:01:06",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_911,US_2,SH_5030,"2025-09-13 12:34:51",4,Completed,Successful,250,MV_1,TH_1,4,09:00:00,"PVR Cinemas"
+BK_912,US_3,SH_2874,"2024-11-27 3:35:04",3,Failed,Cancelled,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_913,US_2,SH_1579,"2025-02-25 11:06:47",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_914,US_2,SH_5689,"2025-01-02 15:28:41",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_915,US_3,SH_9805,"2024-08-15 0:27:05",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_916,US_1,SH_1431,"2024-12-28 0:32:40",4,Pending,Pending,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_917,US_4,SH_9255,"2025-01-25 4:22:56",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_918,US_1,SH_4533,"2025-02-11 19:12:41",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_919,US_1,SH_3407,"2024-04-26 5:15:49",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_920,US_4,SH_5328,"2025-07-08 22:48:28",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_921,US_3,SH_8369,"2024-02-06 8:57:47",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_922,US_4,SH_2659,"2025-08-02 15:30:55",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_923,US_2,SH_3615,"2025-12-14 2:46:53",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_924,US_3,SH_9228,"2025-05-31 5:49:27",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_925,US_2,SH_9773,"2025-12-03 1:06:20",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_926,US_3,SH_2803,"2025-05-16 1:40:00",3,Completed,Successful,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_927,US_1,SH_3141,"2025-11-11 3:14:28",2,Completed,Successful,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_928,US_3,SH_6842,"2024-11-24 10:14:38",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_929,US_1,SH_5142,"2025-03-25 11:19:38",3,Failed,Cancelled,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_930,US_3,SH_9706,"2025-10-16 4:45:36",3,Completed,Successful,500,MV_10,TH_5,3,21:45:00,"Wave Cinemas"
+BK_931,US_2,SH_7598,"2025-08-07 2:56:15",1,Failed,Cancelled,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_932,US_3,SH_3891,"2024-01-08 20:06:47",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_933,US_1,SH_8543,"2025-11-06 19:53:15",2,Pending,Pending,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_934,US_3,SH_5866,"2024-08-31 5:54:11",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_935,US_1,SH_251,"2024-11-01 3:30:40",4,Completed,Successful,500,MV_5,TH_5,4,21:45:00,INOX
+BK_936,US_2,SH_1847,"2025-10-19 21:53:17",3,Failed,Cancelled,250,MV_6,TH_1,3,09:00:00,"Miraj Cinemas"
+BK_937,US_1,SH_3692,"2025-09-03 6:11:47",2,Pending,Pending,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_938,US_2,SH_2425,"2024-08-07 15:31:10",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_939,US_4,SH_3781,"2025-05-31 12:12:11",4,Failed,Cancelled,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_940,US_1,SH_2569,"2025-07-08 13:55:12",2,Failed,Cancelled,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_941,US_1,SH_975,"2024-08-08 21:54:38",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_942,US_1,SH_4133,"2024-07-18 2:12:08",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_943,US_2,SH_6284,"2025-12-21 7:21:34",2,Pending,Pending,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_944,US_1,SH_4919,"2025-07-16 6:32:32",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_945,US_3,SH_9601,"2025-05-12 1:50:59",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_946,US_1,SH_496,"2024-11-12 4:15:32",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_947,US_5,SH_6471,"2025-06-12 13:57:41",2,Pending,Pending,450,MV_7,TH_2,2,12:30:00,"PVR Cinemas"
+BK_948,US_3,SH_7605,"2024-05-14 23:18:57",1,Completed,Successful,600,MV_8,TH_3,1,15:00:00,"Carnival Cinemas"
+BK_949,US_1,SH_7351,"2024-07-25 0:14:05",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_950,US_2,SH_9869,"2024-01-01 0:42:50",1,Completed,Successful,500,MV_10,TH_5,1,21:45:00,"Wave Cinemas"
+BK_951,US_2,SH_5680,"2025-12-10 22:45:03",2,Completed,Successful,250,MV_1,TH_1,2,09:00:00,"PVR Cinemas"
+BK_952,US_1,SH_875,"2025-03-05 19:26:36",4,Pending,Pending,450,MV_2,TH_2,4,12:30:00,"Carnival Cinemas"
+BK_953,US_1,SH_4067,"2024-11-10 8:42:19",2,Completed,Successful,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_954,US_3,SH_2664,"2025-02-10 1:33:14",1,Completed,Successful,800,MV_4,TH_4,1,18:30:00,"Wave Cinemas"
+BK_955,US_2,SH_2233,"2025-05-03 19:12:55",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_956,US_2,SH_3860,"2025-08-24 20:04:16",2,Completed,Successful,250,MV_6,TH_1,2,09:00:00,"Miraj Cinemas"
+BK_957,US_3,SH_7185,"2025-05-31 11:38:56",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_958,US_2,SH_5061,"2024-01-17 16:51:31",2,Pending,Pending,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_959,US_1,SH_3672,"2024-03-14 6:12:53",3,Completed,Successful,800,MV_9,TH_4,3,18:30:00,Cinepolis
+BK_960,US_2,SH_1627,"2025-12-28 23:03:07",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_961,US_2,SH_7101,"2025-11-26 2:33:17",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_962,US_2,SH_5825,"2024-05-18 20:19:50",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_963,US_2,SH_8976,"2025-08-21 10:59:28",3,Completed,Successful,600,MV_3,TH_3,3,15:00:00,Cinepolis
+BK_964,US_2,SH_9620,"2024-11-17 16:59:58",2,Completed,Successful,800,MV_4,TH_4,2,18:30:00,"Wave Cinemas"
+BK_965,US_1,SH_5395,"2024-06-03 2:14:09",2,Completed,Successful,500,MV_5,TH_5,2,21:45:00,INOX
+BK_966,US_2,SH_2195,"2025-10-23 21:35:32",4,Pending,Pending,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_967,US_2,SH_376,"2025-08-10 12:08:10",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_968,US_2,SH_1135,"2025-11-02 10:22:01",4,Completed,Successful,600,MV_8,TH_3,4,15:00:00,"Carnival Cinemas"
+BK_969,US_2,SH_3178,"2025-05-01 4:10:18",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_970,US_2,SH_7222,"2024-06-06 22:00:28",2,Completed,Successful,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_971,US_5,SH_1025,"2025-07-19 20:34:00",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_972,US_4,SH_6033,"2025-04-30 16:36:25",2,Completed,Successful,450,MV_2,TH_2,2,12:30:00,"Carnival Cinemas"
+BK_973,US_6,SH_2446,"2025-08-18 3:56:00",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_974,US_2,SH_4333,"2025-05-26 0:33:12",4,Pending,Pending,800,MV_4,TH_4,4,18:30:00,"Wave Cinemas"
+BK_975,US_2,SH_5017,"2025-08-18 1:48:48",4,Failed,Cancelled,500,MV_5,TH_5,4,21:45:00,INOX
+BK_976,US_4,SH_4556,"2024-06-27 21:01:03",4,Completed,Successful,250,MV_6,TH_1,4,09:00:00,"Miraj Cinemas"
+BK_977,US_7,SH_6782,"2024-06-19 9:02:27",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_978,US_4,SH_2248,"2024-01-17 3:29:03",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_979,US_1,SH_5379,"2024-03-19 15:07:21",2,Completed,Successful,800,MV_9,TH_4,2,18:30:00,Cinepolis
+BK_980,US_1,SH_2456,"2025-11-29 11:06:47",4,Completed,Successful,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
+BK_981,US_2,SH_3021,"2024-12-26 23:36:51",3,Completed,Successful,250,MV_1,TH_1,3,09:00:00,"PVR Cinemas"
+BK_982,US_2,SH_5034,"2025-04-26 0:21:52",1,Completed,Successful,450,MV_2,TH_2,1,12:30:00,"Carnival Cinemas"
+BK_983,US_1,SH_4346,"2025-12-11 12:26:32",1,Completed,Successful,600,MV_3,TH_3,1,15:00:00,Cinepolis
+BK_984,US_5,SH_3449,"2025-08-19 9:34:01",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_985,US_3,SH_1577,"2025-07-26 19:05:03",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_986,US_1,SH_3420,"2025-10-16 12:14:36",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_987,US_3,SH_6992,"2024-05-29 12:42:12",1,Completed,Successful,450,MV_7,TH_2,1,12:30:00,"PVR Cinemas"
+BK_988,US_1,SH_7722,"2024-05-10 12:26:27",2,Completed,Successful,600,MV_8,TH_3,2,15:00:00,"Carnival Cinemas"
+BK_989,US_3,SH_9324,"2024-10-09 14:53:59",4,Completed,Successful,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_990,US_1,SH_3405,"2025-11-21 3:33:06",2,Failed,Cancelled,500,MV_10,TH_5,2,21:45:00,"Wave Cinemas"
+BK_991,US_1,SH_8962,"2024-08-14 5:28:00",1,Completed,Successful,250,MV_1,TH_1,1,09:00:00,"PVR Cinemas"
+BK_992,US_1,SH_1391,"2025-01-22 16:23:54",3,Completed,Successful,450,MV_2,TH_2,3,12:30:00,"Carnival Cinemas"
+BK_993,US_2,SH_9854,"2024-02-25 11:34:10",2,Failed,Cancelled,600,MV_3,TH_3,2,15:00:00,Cinepolis
+BK_994,US_2,SH_7282,"2024-02-26 22:29:00",3,Completed,Successful,800,MV_4,TH_4,3,18:30:00,"Wave Cinemas"
+BK_995,US_2,SH_3971,"2024-04-01 22:27:33",3,Completed,Successful,500,MV_5,TH_5,3,21:45:00,INOX
+BK_996,US_3,SH_3285,"2025-01-05 19:19:01",1,Completed,Successful,250,MV_6,TH_1,1,09:00:00,"Miraj Cinemas"
+BK_997,US_4,SH_8545,"2025-02-16 21:06:44",4,Completed,Successful,450,MV_7,TH_2,4,12:30:00,"PVR Cinemas"
+BK_998,US_5,SH_3487,"2025-09-11 22:02:51",3,Completed,Successful,600,MV_8,TH_3,3,15:00:00,"Carnival Cinemas"
+BK_999,US_4,SH_1481,"2025-02-25 18:59:52",4,Failed,Cancelled,800,MV_9,TH_4,4,18:30:00,Cinepolis
+BK_1000,US_1,SH_6305,"2025-01-08 2:54:08",4,Pending,Pending,500,MV_10,TH_5,4,21:45:00,"Wave Cinemas"
